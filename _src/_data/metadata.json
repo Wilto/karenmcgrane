@@ -1,0 +1,17 @@
+{
+  "title": "Karen McGrane",
+  "shortname": "KMG",
+  "domain": "https://karenmcgrane.com/",
+  "description": "…",
+  "feed": {
+    "subtitle": "…",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://karenmcgrane.com/feed/feed.xml",
+    "id": "https://karenmcgrane.com/"
+  },
+  "author": {
+    "name": "Mat Marquis",
+    "email": "mat@matmarquis.com"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "karenmcgrane",
+  "version": "0.0.1",
+  "description": "",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Wilto/karenmcgrane.git"
+  },
+  "author": {
+    "name": "Mat Marquis",
+    "email": "mat@matmarquis.com",
+    "url": "http://hire.wil.to"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-img": "^2.0.1"
+  }
+}
